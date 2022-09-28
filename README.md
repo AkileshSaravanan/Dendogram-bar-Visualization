@@ -1,4 +1,3 @@
-# Dendogram-bar-Visualization
 # AUTHOR = AKILESH S,
 The above listed codes and information are unique and it is open source to use,
 We make dataset which gives the developing districts of Tamil Nadu ,they are unique performance with grading using html,
