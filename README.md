@@ -10,4 +10,10 @@ Skillsdata.csv contains dataset of Developing districts of Tamil Nadu ,they are 
 
 Guided by = Prof.R.Raja Subramanian,
 
-Kalasalingam Academy of Research and Education,Tamil Nadu.
+Kalasalingam Academy of Research and Education,
+
+Tamil Nadu.
+
+To know more about me or follow,
+
+<li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
